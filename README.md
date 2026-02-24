@@ -1,62 +1,77 @@
-# 👋 Hej, jeg er Sebastian
+# 👋 Hi, I'm Sebastian
 
-🎓 Datatekniker med speciale i infrastruktur  
-🖥️ Infrastruktur | Netværk | Servere | Cloud | Sikkerhed  
-
----
-
-## 👨‍💻 Om mig
-
-Jeg arbejder med drift, opsætning og optimering af IT-infrastruktur.  
-Jeg har særlig interesse for stabile systemer, sikkerhed og automatisering.
-
-- 🔧 Arbejder med: Windows Server, Linux, netværk og virtualisering
-- ☁️ Interesseret i: Cloud (Azure), Infrastructure as Code
-- 🔐 Fokus på: IT-sikkerhed og stabil drift
-- 📚 Lærer konstant nyt inden for enterprise-løsninger
+🎓 Datatekniker (Infrastructure Specialist)  
+🖥️ Infrastructure | Networking | Virtualization | Security | Automation  
 
 ---
 
-## 🛠 Kompetencer
+## 👨‍💻 About Me
 
-### 💻 Server & OS
+I specialize in building, securing, and maintaining modern IT infrastructure environments.  
+I work with virtualization, networking, server management, and automation.
+
+I enjoy designing stable systems that are secure, scalable, and efficient.
+
+---
+
+## 🛠 Technical Skills
+
+### 🖥️ Virtualization & Infrastructure
+- Proxmox VE
+- Docker
+- CloudPanel
+- Pterodactyl
 - Windows Server
-- Linux (Ubuntu / Debian / CentOS)
-- Active Directory
-- Group Policy
+- Linux Server
 
-### 🌐 Netværk
-- TCP/IP
-- VLAN
-- Routing & Switching
-- Firewall-konfiguration
+### 🌐 Networking & Security
+- pfSense
+- OPNsense
+- Cisco
+- Ubiquiti
+- VLAN & Routing
+- Firewall configuration
+- Cloudflare
 
-### ☁️ Cloud & Virtualisering
-- Microsoft Azure
-- VMware / Hyper-V
-- Docker (grundlæggende)
+### ☁️ Cloud & Services
+- Cloudflare DNS & Security
+- Reverse Proxy Setup
+- SSL/TLS Configuration
 
-### 🔐 Sikkerhed
-- Backup & Recovery
-- Monitoring
-- Adgangsstyring
-- Patch management
+### 💾 Databases
+- MySQL
 
----
-
-## 📊 GitHub Statistik
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DIT_BRUGERNAVN&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DIT_BRUGERNAVN&layout=compact&theme=dark)
+### 🧠 Programming & Automation
+- Python
+- Small Basic
+- Bash scripting (Linux)
 
 ---
 
-## 📫 Kontakt
+## 🚀 What I Focus On
 
-- 💼 LinkedIn:
-- 📧 Email: Kontakt@lillemand.dk
+- Infrastructure design & deployment
+- Secure network architecture
+- Virtualized environments
+- Self-hosted solutions
+- Automation & optimization
+- Monitoring & backup strategies
 
 ---
 
-⚡ *"Stabil infrastruktur er fundamentet for alt IT."*
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: [Add your link]
+- 📧 Email: [Add your email]
+
+---
+
+⚡ “Good infrastructure is invisible when it works — and critical when it doesn’t.”
