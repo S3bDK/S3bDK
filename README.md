@@ -54,8 +54,8 @@ Jeg har særlig interesse for stabile systemer, sikkerhed og automatisering.
 
 ## 📫 Kontakt
 
-- 💼 LinkedIn: [Indsæt link]
-- 📧 Email: [Indsæt email]
+- 💼 LinkedIn:
+- 📧 Email: Kontakt@lillemand.dk
 
 ---
 
