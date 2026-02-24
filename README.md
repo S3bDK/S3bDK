@@ -61,9 +61,9 @@ I enjoy designing stable systems that are secure, scalable, and efficient.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=S3bDK&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=S3bDK&show_icons=true&theme=dracula)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=S3bDK&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=S3bDK&layout=compact&theme=dracula)
 
 ---
 
