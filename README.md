@@ -61,16 +61,16 @@ I enjoy designing stable systems that are secure, scalable, and efficient.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=S3bDK&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=S3bDK&layout=compact&theme=dark)
 
 ---
 
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: [Add your link]
-- 📧 Email: [Add your email]
+- 📧 Email: Kontakt@lillemand.dk
 
 ---
 
